@@ -4,7 +4,7 @@
 }
 
 body {
-  font-family:Georgia,courier,arial,helvética
+  font-family: Rockwell, Georgia,arial,helvética
 }
 
 .main {
@@ -115,21 +115,25 @@ footer {
 }
 
 h1 {
+backgroud:#F39C12;
   text-align:center;
   Font-size:50px
 }
 
 h2 {
+backgroud:#F39C12;
   text-align:center;
   Font-size:30px
 }
 
 
 h3 {
+backgroud:#F39C12;
   text-align:center;
   Font-size:30px
 }
 
 h5 {
+backgroud:#F39C12;
   font-size: 20PX;
 }
