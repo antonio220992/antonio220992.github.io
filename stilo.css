@@ -4,7 +4,7 @@
 }
 
 body {
-  font-family: Rockwell, Georgia,arial,helvética
+  font-family: "Rockwell", Georgia,arial,helvética
 }
 
 .main {
@@ -115,12 +115,14 @@ footer {
 }
 
 h1 {
+font-family: "Goudy Old Style", verdana,arial;
 backgroud:#F39C12;
   text-align:center;
   Font-size:50px
 }
 
 h2 {
+font-family: "Goudy Old Style", verdana,arial;
 backgroud:#F39C12;
   text-align:center;
   Font-size:30px
@@ -128,12 +130,14 @@ backgroud:#F39C12;
 
 
 h3 {
+font-family: "Goudy Old Style", verdana,arial;
 backgroud:#F39C12;
   text-align:center;
   Font-size:30px
 }
 
 h5 {
+font-family: "Goudy Old Style", verdana,arial;
 backgroud:#F39C12;
   font-size: 20PX;
 }
