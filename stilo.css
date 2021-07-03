@@ -1,10 +1,10 @@
-﻿* {
+* {
 	margin:0;
 	padding:0;
 }
 
 body {
-  font-family: "Rockwell", Georgia,arial,helvética,arial
+  font-family: "Rockwell", Georgia,arial,
 }
 
 .main {
@@ -116,14 +116,14 @@ footer {
 
 h1 {
 font-family: "Goudy Old Style", verdana,arial;
-backgroud:#F39C12;
+backgroud:#F9CF13;
   text-align:center;
   Font-size:50px
 }
 
 h2 {
 font-family: "Goudy Old Style", verdana,arial;
-backgroud:#F39C12;
+backgroud:rgb(212, 147, 42);
   text-align:center;
   Font-size:30px
 }
@@ -131,13 +131,13 @@ backgroud:#F39C12;
 
 h3 {
 font-family: "Goudy Old Style", verdana,arial;
-backgroud:#F39C12;
+backgroud:rgb(197, 141, 51);
   text-align:center;
   Font-size:30px
 }
 
 h5 {
 font-family: "Goudy Old Style", verdana,arial;
-backgroud:#F39C12;
+backgroud:rgb(214, 151, 51);
   font-size: 20PX;
 }
